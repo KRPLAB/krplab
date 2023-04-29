@@ -2,9 +2,9 @@
 
 ## Hello world, eu sou o Kauan 👋
 
-- 💼 Atualmente eu trabalho na IBBT indústria e comércio de produtos alimentícios.
-- 📚 Curso Física na UFPR e também gosto de estudar programação. As linguagens que estou sempre estudando algo sobre são: HTML, CSS, JS, PYTHON, C/C++, PASCAL.
-- 📧 E-mail: <a href="kauan.paulino@ufpr.br">kauan.paulino@ufpr.br</a>
+💼 Atualmente eu trabalho na IBBT indústria e comércio de produtos alimentícios.
+📚 Curso Física na UFPR e também gosto de estudar programação. As linguagens que estou sempre estudando algo sobre são: HTML, CSS, JS, PYTHON, C/C++, PASCAL.
+📧 E-mail: <a href="kauan.paulino@ufpr.br">kauan.paulino@ufpr.br</a>
 
 <!--
 **KRP18/krp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
