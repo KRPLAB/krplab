@@ -1,4 +1,4 @@
-<img src="https://https://i.redd.it/3abptfky3bi41.png" width="400px" min-width="300px" max-width="400px" align="right" alt="Well Nerd">
+<img src="https://i.redd.it/3abptfky3bi41.png" width="400px" min-width="300px" max-width="400px" align="right" alt="Well Nerd">
 
 ## Hello world, eu sou o Kauan 👋
 
