@@ -2,6 +2,8 @@
 
 ## Olá Mundo, eu sou o Kauan 👋
 
+💻 Desenvolvedor FullStack em Formação na Kenzie Academy Brasil
+
 💼 Atualmente eu trabalho na IBBT indústria e comércio de produtos alimentícios.
 
 📚 Curso Física na UFPR e também gosto de estudar programação. As linguagens que estou sempre estudando algo sobre são: HTML, CSS, JS, PYTHON, C/C++, PASCAL.
