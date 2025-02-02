@@ -2,11 +2,11 @@
 
 ## Olá Mundo, eu sou o Kauan 👋
 
-💻 Desenvolvedor FullStack em Formação na Kenzie Academy Brasil
+💻 Desenvolvedor FullStack Formado pela Kenzie Academy Brasil
 
-💼 Atualmente eu trabalho na AUTO TRUCK – Ar Condicionado.
+💼 Atualmente eu trabalho na área de metalurgia na AUTO TRUCK – Ar Condicionado.
 
-📚 Curso Física na UFPR e também gosto de estudar programação. As linguagens que estou sempre estudando algo sobre são: HTML, CSS, JS, PYTHON, C/C++, PASCAL.
+📚 Cursei Física na UFPR e também gosto de estudar programação. As linguagens e tecnologias que estou sempre estudando e tenho conhecimento são: HTML, CSS, JavaScript, TypeScript, React, Express, NodeJS, MongoDB, PostgreSQL, PYTHON, C, C++
 
 📧 E-mail: <a href="kauan.paulino@ufpr.br">kauan.paulino@ufpr.br</a>
 
