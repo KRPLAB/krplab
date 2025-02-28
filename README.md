@@ -2,11 +2,15 @@
 
 ## Olá Mundo, eu sou o Kauan 👋
 
+📚 Graduando em Bacharelado em Ciência da Computação pelo IFPR
+
+📚 Cursei Física na UFPR
+
 💻 Desenvolvedor FullStack Formado pela Kenzie Academy Brasil
 
 💼 Atualmente eu trabalho na área de metalurgia na AUTO TRUCK – Ar Condicionado.
 
-📚 Cursei Física na UFPR e também gosto de estudar programação. As linguagens e tecnologias que estou sempre estudando e tenho conhecimento são: HTML, CSS, JavaScript, TypeScript, React, Express, NodeJS, MongoDB, PostgreSQL, PYTHON, C, C++
+As linguagens e tecnologias que estou sempre estudando e tenho conhecimento são: HTML, CSS, JavaScript, TypeScript, React, Express, NodeJS, MongoDB, PostgreSQL, PYTHON, C, C++
 
 📧 E-mail: <a href="kauan.paulino@ufpr.br">kauan.paulino@ufpr.br</a>
 
