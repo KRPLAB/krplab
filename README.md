@@ -1,6 +1,6 @@
-<img src="https://i.redd.it/3abptfky3bi41.png" width="400px" min-width="300px" max-width="400px" align="right" alt="Well Nerd">
 
 ## Olá Mundo, eu sou o Kauan 👋
+<img src="https://i.redd.it/3abptfky3bi41.png" width="400px" min-width="300px" max-width="400px" align="right" alt="Well Nerd">
 
 📚 Graduando em Bacharelado em Ciência da Computação pelo IFPR
 
