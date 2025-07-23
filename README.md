@@ -8,14 +8,14 @@
 
 💻 Desenvolvedor FullStack Formado pela Kenzie Academy Brasil
 
-💼 Atualmente eu trabalho na área de metalurgia na AUTO TRUCK – Ar Condicionado.
+💼 Atualmente sou estagiário de desenvolvimento web na AT Software Solutions
 
 As linguagens e tecnologias que estou sempre estudando e tenho conhecimento são: HTML, CSS, JavaScript, TypeScript, React, Express, NodeJS, MongoDB, PostgreSQL, PYTHON, C, C++
 
-📧 E-mail: <a href="kauan.paulino@ufpr.br">kauan.paulino@ufpr.br</a>
+📧 E-mail: <a href="kauan.r.paulino@gmail.com">kauan.r.paulino@gmail.com</a>
 
 <!--
-**KRP18/krp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
