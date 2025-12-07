@@ -36,11 +36,15 @@ Minha jornada começou na Física (UFPR), onde desenvolvi forte pensamento lógi
 
 ### ⚙️ **Back-end**
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge\&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge\&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-000?style=for-the-badge&logo=sqlite)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
 
 ---
 
