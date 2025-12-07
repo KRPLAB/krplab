@@ -44,7 +44,7 @@ Minha jornada começou na Física (UFPR), onde desenvolvi forte pensamento lógi
 
 ---
 
-### 📟 **Embarcados:** ESP32, ESP-IDF, MQTT, HTTP
+### 📟 **Embarcados**
 
 ![ESP32](https://img.shields.io/badge/-ESP32-000?style=for-the-badge&logo=espressif)
 ![ESP-IDF](https://img.shields.io/badge/-ESP--IDF-000?style=for-the-badge&logo=espressif)
